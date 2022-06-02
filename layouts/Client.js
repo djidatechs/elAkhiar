@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from '../Components/navbars/ClientNavBar';
+import Navbar from '../components/navbars/ClientNavBar';
 function Client({children}) {
     return (
         <>
