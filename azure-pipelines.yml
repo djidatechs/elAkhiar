@@ -33,6 +33,6 @@ steps:
       TargetFolder: '$(Build.ArtifactStagingDirectory)\\ArtifactsToBePublished'
 
   - task: PublishBuildArtifacts@1
-    displayName: "Publish Artifact: SampleApp"
+    displayName: "Publish Artifact: elakhiar"
     inputs:
       PathtoPublish: '$(Build.ArtifactStagingDirectory)\\ArtifactsToBePublished'
