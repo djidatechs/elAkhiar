@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'elakhiarboumerdes'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_929C7B7FC8E44922AA6CC2A9D4F88643 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85725BF0A01841B2BC17CFD0CAA2C007 }}
           package: .
